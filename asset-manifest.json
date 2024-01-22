@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wbradar/static/css/main.21995006.css",
+    "main.js": "/wbradar/static/js/main.77ac0b4c.js",
+    "static/js/387.f6264420.chunk.js": "/wbradar/static/js/387.f6264420.chunk.js",
+    "index.html": "/wbradar/index.html",
+    "main.21995006.css.map": "/wbradar/static/css/main.21995006.css.map",
+    "main.77ac0b4c.js.map": "/wbradar/static/js/main.77ac0b4c.js.map",
+    "387.f6264420.chunk.js.map": "/wbradar/static/js/387.f6264420.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21995006.css",
+    "static/js/main.77ac0b4c.js"
+  ]
+}
