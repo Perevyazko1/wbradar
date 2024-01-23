@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/wbradar/static/css/main.de448dfe.css",
-    "main.js": "/wbradar/static/js/main.76a3d286.js",
-    "static/css/403.15c2ffe2.chunk.css": "/wbradar/static/css/403.15c2ffe2.chunk.css",
-    "static/js/403.711a56b8.chunk.js": "/wbradar/static/js/403.711a56b8.chunk.js",
+    "main.css": "/wbradar/static/css/main.93de5f02.css",
+    "main.js": "/wbradar/static/js/main.e68a2f8c.js",
+    "static/css/403.5aeb3076.chunk.css": "/wbradar/static/css/403.5aeb3076.chunk.css",
+    "static/js/403.839e0dac.chunk.js": "/wbradar/static/js/403.839e0dac.chunk.js",
     "static/js/197.51135230.chunk.js": "/wbradar/static/js/197.51135230.chunk.js",
     "index.html": "/wbradar/index.html",
-    "main.de448dfe.css.map": "/wbradar/static/css/main.de448dfe.css.map",
-    "main.76a3d286.js.map": "/wbradar/static/js/main.76a3d286.js.map",
-    "403.15c2ffe2.chunk.css.map": "/wbradar/static/css/403.15c2ffe2.chunk.css.map",
-    "403.711a56b8.chunk.js.map": "/wbradar/static/js/403.711a56b8.chunk.js.map",
+    "main.93de5f02.css.map": "/wbradar/static/css/main.93de5f02.css.map",
+    "main.e68a2f8c.js.map": "/wbradar/static/js/main.e68a2f8c.js.map",
+    "403.5aeb3076.chunk.css.map": "/wbradar/static/css/403.5aeb3076.chunk.css.map",
+    "403.839e0dac.chunk.js.map": "/wbradar/static/js/403.839e0dac.chunk.js.map",
     "197.51135230.chunk.js.map": "/wbradar/static/js/197.51135230.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.de448dfe.css",
-    "static/js/main.76a3d286.js"
+    "static/css/main.93de5f02.css",
+    "static/js/main.e68a2f8c.js"
   ]
 }
